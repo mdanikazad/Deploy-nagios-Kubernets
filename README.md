@@ -14,4 +14,15 @@ You can use any labels as per your choice.
 Note: The kubectl on jump_host has been configured to work with the kubernetes cluster.
 
 
+
+-------------------------------------------TO DO---------------------------------------------------------
+
+
+
+
+kubectl exec -it  pod-id -- bash 
+
+htpasswd -c /opt/nagios/etc/htpasswd.users xFusionCorp
+
+
  
